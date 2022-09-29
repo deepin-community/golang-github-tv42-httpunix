@@ -1,0 +1,11 @@
+golang-github-tv42-httpunix (0.0~git20150427.b75d861-2) unstable; urgency=medium
+
+  * Standards-Version: 4.4.1.
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Sun, 20 Oct 2019 16:52:52 +1100
+
+golang-github-tv42-httpunix (0.0~git20150427.b75d861-1) unstable; urgency=medium
+
+  * Initial release (Closes: #941190).
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Thu, 26 Sep 2019 15:38:16 +1000
